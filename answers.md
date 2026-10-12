@@ -61,5 +61,3 @@ Documentation deployment workflow ran (Doxygen GitHub Pages Deploy Action) due t
 
 .gitignore is a configuration file that tells git which files to ignore. However, it only stops git from tracking newly created files, rather than the ones git is already tracking. .pio is auto-generated so saving it is redundant.
 
-
-
